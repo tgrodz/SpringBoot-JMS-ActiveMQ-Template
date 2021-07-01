@@ -13,3 +13,7 @@ The central piece of middleware that distributes messages.
 Client
 
 A piece of software that forwards messages using a broker.
+
+
+JMS uses the term provider to describe the vendor implementation of the messaging system underlying the JMS API, 
+which includes a broker as well as its client libraries. 
